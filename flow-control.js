@@ -32,7 +32,7 @@ function switchAge(age) {
     case age >= 20:
       return "You have an age";
       break;
-    case age =< 12:
+    case age <= 12:
       return "You have an age";
       break;
     default:
